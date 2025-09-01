@@ -16,7 +16,6 @@ const Home = () => {
     <Header />
       <Carousel />
       <ShowProduct />
-
       <Footer/>
       </div>
       
